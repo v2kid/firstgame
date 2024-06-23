@@ -1,0 +1,3246 @@
+fileFormatVersion: 2
+guid: ac55962f050568d48ab8ab6d852bd708
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3185
+        width: 1047
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f95894536c074f93c43a1c702eebf
+      internalID: -304102272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_1
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3161
+        width: 293
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef197cab2deb8e459e63efcde055242
+      internalID: -2060784087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_2
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3611
+        width: 519
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2546a76ac5c38d4a85fc7b6fd3f9524
+      internalID: -1321791045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_3
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 3315
+        width: 288
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9d63728e1f1e4696b345cc7c45672
+      internalID: 134583488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3504
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899928a59fd13be43bc24ff5c348e9a1
+      internalID: -2023631782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3099
+        width: 234
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad4a66f406a184cbc85ee5e2525ca4
+      internalID: -1505086614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3198
+        width: 158
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4290b7516d407c41b15f1aa2522506a
+      internalID: -1208452992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 3091
+        width: 206
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06a5c0ea2ecc440a900fdd3fd369cf
+      internalID: 216421853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_8
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 3204
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db772bd87d67384682f73976508404e
+      internalID: 699538132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_9
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3059
+        width: 128
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0429948e512f4c74a878077832712b42
+      internalID: 1104813372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d48b7d3521114fb4b6ce70f568190
+      internalID: -988836694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2939
+        width: 118
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883d053afba17a4ca953f8ef0da2453
+      internalID: 1980259000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2669
+        width: 265
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cb87029db9e746a54d34e5b386716
+      internalID: 339767939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2355
+        width: 353
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d915a42c154ba478b22b9a670727e4
+      internalID: 1332620914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2820
+        width: 296
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db7984b7a1061f4db1f44d7cc8830b3
+      internalID: 534527962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2721
+        width: 150
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37805d862254f0149844c05feede86e4
+      internalID: -780619402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_16
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2881
+        width: 278
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb7844fd516d849bce33461c0e8c76
+      internalID: 546932277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_17
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2605
+        width: 163
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b87c3549f58749addcdf7dda07a68
+      internalID: -1991761612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_18
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2316
+        width: 533
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575f7212feef9a40bfbadf8aa0e3847
+      internalID: 383084546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2551
+        width: 296
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd7f6deb2844443878b9832f2feb8d
+      internalID: -854710867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2820
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c3accdf786e744a472c4a0e34d500
+      internalID: 1763935153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2585
+        width: 245
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793d4d385367c424ca05f7424c30e645
+      internalID: -1213762074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_22
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2764
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd595de1077fe3e40b8c2513901b88f7
+      internalID: 971733886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b175378097874bb28191e107663f3
+      internalID: -820110514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_24
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2461
+        width: 134
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2049b9eeffd93c46b4594c2e0828e9e
+      internalID: 351966369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2103
+        width: 306
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94b517277fdfc4698357b9cb48ca40
+      internalID: -860149643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2071
+        width: 310
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950eb4a09aa8a5f42b3d6ad6be7d6851
+      internalID: 1398386013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2269
+        width: 308
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945c3d73fb031124cacc5a799339763a
+      internalID: 204196591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1959
+        width: 178
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a90d365203cf4f8dd06c327d83c08
+      internalID: -179906628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_29
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2232
+        width: 254
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb403bcbb48d7b74ea98792492e6fae3
+      internalID: 553178648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_30
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2127
+        width: 202
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf09f29da448d14cb05024aa5b9f84c
+      internalID: 658507749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_31
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2099
+        width: 217
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa6846d09388d4b9fc219826419546
+      internalID: -1236310491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_32
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2076
+        width: 133
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97da6b13ff6e34993d6d6ac0c286a7
+      internalID: -2024217706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_33
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8b91714757a0439f9375a1811f8d3
+      internalID: -718458860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_34
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2287
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd9e7235d2ca648ac6ec9b5f9adea4
+      internalID: -1580479784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_35
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d62973c32b2394b8b6b9fc35d58ca1
+      internalID: -1245552547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_36
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2172
+        width: 85
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb1c5da2df9c9488af120e473f6aca
+      internalID: 703386964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1991
+        width: 318
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1404b5488d3764bac03338f6fc187c
+      internalID: -1531146579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_38
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2256
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689c9d2ac33fd44f9cb411b3b1d39d5
+      internalID: -303364093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_39
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6fd738c7718284ab86bb0be1b37ee5
+      internalID: -2024320646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_40
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2243
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec144b0ba84066439637dd3eb8bcd75
+      internalID: -801929657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_41
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1606
+        width: 238
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227f787409691ff4d9cc659773af0f9f
+      internalID: 1829109764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_42
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2228
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c2b6bc147a874ba042281ac30c5d2
+      internalID: 1524335503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_43
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433f024979a73a3439ca1cee60c5d45b
+      internalID: -1462567758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1834
+        width: 328
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1b1b36c2b01745b636c49acb1a08b
+      internalID: 428775315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1797
+        width: 330
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924353dcedce2346895e727cea14c23
+      internalID: -1297264786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2064
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520ca6a8e1df294d9d2a55279308160
+      internalID: 427195736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_47
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2015
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26204178f38a53d4eb4e587c847b6ff9
+      internalID: 1010236667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_48
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1969
+        width: 85
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b5e0df622b4e499d17c076d7b98da
+      internalID: -1847294380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_49
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1797
+        width: 337
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f0107ea20aff343be7c3818ff171c2
+      internalID: 340671454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_50
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1711
+        width: 328
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e89e0a7a01d6749b44a626944aff47
+      internalID: -903370949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_51
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1969
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4a71c8c9381a468f52e9c6f4c8523
+      internalID: 1527890855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_52
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1692
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c83dc5e34809a4382971479c68eba4
+      internalID: 1226695031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_53
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1944
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65848541982514743bfbf1533e79e8fa
+      internalID: 1041126939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_54
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1908
+        width: 144
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42751a3585a23754f90759f2c07aa343
+      internalID: 1247768363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_55
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1913
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f294229c18419c47a6bb9cc05ca3541
+      internalID: 767159500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_56
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1891
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea22bf63f83414d8417773f699b353
+      internalID: 825865334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_57
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1884
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf9b0f34e59e01489818bbec523025a
+      internalID: -1952247698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_58
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1872
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad69adabd3f1d48bc2c23ecaf45975
+      internalID: 915345242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_59
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1867
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1448aad285e784faa28414ba225beb
+      internalID: 1227779759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_60
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1824
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e763c28e809ff478b779f53f3d5365
+      internalID: -1632634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_61
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1857
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29565d8c2fb9c468b10dcfa859c9e3
+      internalID: 1934778922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_62
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1860
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59945a1e4cf5d5748a0d914a2cf86a72
+      internalID: 1359667431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1557
+        width: 329
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baafa00d8ec675b40bd6d441474dca03
+      internalID: -699836197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_64
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1799
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98fd88290a6d80438e1c35695e11265
+      internalID: 1719564228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_65
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1801
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8db416a89dc95243b6ed58433ee4037
+      internalID: -1471784693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_66
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1539
+        width: 357
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b6b174ca840544bab6c2e7fa544ae
+      internalID: -2114808027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_67
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1776
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa259d4f8f58b4db3ce7c32721e75f
+      internalID: 1480552150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_68
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1751
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00125fdbfe71f42beb1e3930646539
+      internalID: -1714673717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_69
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1501
+        width: 442
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaeb2a9618c8b34d9661b897f1fc3a6
+      internalID: -1797787233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_70
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1752
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48320d3d7b56b45a98dc268ea6aa49
+      internalID: -1924641988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_71
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1739
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda7628ff29e794497ed36d76414616
+      internalID: -1932484870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_72
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1668
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7328170c23ad484883ffe51c4a89945
+      internalID: 621730958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_73
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1716
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0c7ba7f62f544d9ca4e0eb2279a77
+      internalID: 2039964369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_74
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1705
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63308adf18fdc443bdf53b83b66e57a
+      internalID: -1760488495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_75
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1624
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd964d9508497140a8fe2abed4cf462
+      internalID: -835708353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_76
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1716
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4efacc426c963d4e849fa51f6fc01f4
+      internalID: -18364812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_77
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1429
+        width: 319
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd5d97a440ecb4cb32905a00997fb9
+      internalID: -1762770886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_78
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1426
+        width: 133
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e794a74bc7fb2894bba54c772261d11e
+      internalID: 241580151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_79
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1657
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70dd48da2f56a45bdb10a954423ab2
+      internalID: -533581162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_80
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1560
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318de279df3c6124f93e6610d9d4cf4c
+      internalID: 2083820516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_81
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1619
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952c4251361cfe459059872214dc889
+      internalID: 571775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_82
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1640
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7e91aa9faedf4b820c2811867e070
+      internalID: -140777471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1632
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ab09aec54c8c549b64c2de0f36bb6a
+      internalID: -1512652319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_84
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1608
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec9e43a0ee9fe45901f54c4c83214e
+      internalID: 1290893621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_85
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1595
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1395adf522d7c340b9df941468c3e03
+      internalID: 1477134034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_86
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1190
+        width: 230
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62edbdcebf7024a8af6212c19de873
+      internalID: 95207759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_87
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb96fc4ec65504ca1e8ce8da727656
+      internalID: 896680865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1272
+        width: 330
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12922f7b2ae65fe41a546bdf027214bc
+      internalID: 1810852570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_89
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 969
+        width: 358
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995caa6848b9b1c4d9358e39e6ca9fa1
+      internalID: -432379394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_90
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1177
+        width: 381
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6388d02ee6d3442bb9d21a8a126433
+      internalID: 1040743598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_91
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1416
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e654210ad2ac41ad57a9e1c433642
+      internalID: -580065785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_92
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1012
+        width: 170
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae62d1bceb952943aa83dec6f653e6d
+      internalID: 1665860705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_93
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1200
+        width: 376
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66654d41cb015848a3c40f5f0568a44
+      internalID: -1050254548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_94
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812397eb547b4a45ae8d9a053b1a6df
+      internalID: 1977036258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 397
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6dbaf113b061f4d87f238e0510d855
+      internalID: 192287294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_96
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b50985f8b27bf446b6d96584bba9a90
+      internalID: 2101093682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_97
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1260
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dea0d3af73031419a67c2bf2cf73f0
+      internalID: -265167653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_98
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 881
+        width: 373
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d2f22a03943d4889304884dbde02a
+      internalID: -1694023769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_99
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1068
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeff68749521904d9cd08c396e0a73e
+      internalID: -524527277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_100
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 611
+        width: 158
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ca742ee58ae44491adf21de5daae2
+      internalID: 1501702676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_101
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 811
+        width: 287
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8eb1534eb0c5438227edec164c80e
+      internalID: 572210751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_102
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 288
+        width: 797
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74101add0c1da854284d4bc98bbcf8a3
+      internalID: -172223935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 972
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c730d798f571bef4882ff4e52cf23d5c
+      internalID: 865276337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_104
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 989
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb441eeda0731a441a9ad10640b79a51
+      internalID: 1639186160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_105
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 696
+        width: 406
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cd8b7de3cfafd4bb970fd139139872
+      internalID: -1998467596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_106
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 937
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38564894d9ac0ac4491676ffc6170e09
+      internalID: -678660414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_107
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 901
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c3281ded870f4da8590aa98937049
+      internalID: -1227134180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_108
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 589
+        width: 380
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aa871c973b06b408bdd587f9f6a2ab
+      internalID: -1166772903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_109
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 852
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6578f2938d67a478a7bbccda31cefb
+      internalID: -1557444617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_110
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 836
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e523c9fa0bbf041a88bc57764eb302
+      internalID: 1245564237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_111
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 835
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc2fbfbe3ed8f4eacbe3d91874939a
+      internalID: 2042977427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_112
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 0
+        width: 325
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705ee5812657fb439e38aff1526716a
+      internalID: 2035701366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_113
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 803
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f307d878936f7a4f9a724da1260b000
+      internalID: -835910173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 397
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb487476f1c8ac40b16429d5ae2c183
+      internalID: 750625342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 144
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a05c553ed08b47b8a7efd9cdddadf
+      internalID: 1658997116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 228
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a96caae485cf5469d64aabbb0daa3f
+      internalID: 1346032902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_117
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 709
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0363e7ba2165cf64fa1c8ceb10c7eb0c
+      internalID: -1962667056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_118
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 601
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5eeb0cfbf244743b3e6c8e65af3375
+      internalID: 1742359810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_119
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 399
+        width: 391
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898450978da3b74d83614274cb1974a
+      internalID: -1330920185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_120
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 564
+        width: 65
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fbc80734d62cf4a9f540d281a1ba17
+      internalID: 1711006767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_121
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 625
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397bd6a1bde7e9408f548afe7b67bb2
+      internalID: 528605965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_122
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 583
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603cc65bc2d16d44a11c21c70870074
+      internalID: 918908087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_123
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 584
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795c20071d385a4587092fafab6f962
+      internalID: 1435104969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_124
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 555
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f79f5e9fcb97014a97e493d0a9d3d4b
+      internalID: -1444965222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_125
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 492
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8c52add7fb5b4ea2023c3962b5ee9
+      internalID: -1369257618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 463
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd384801454ac4ea7fcde352f1d68a
+      internalID: 466168863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_127
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 504
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b0e00b7f560543aba32869f9585c4
+      internalID: 654327959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 398
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece11ea8b3ac8a8488a65ce3172ee7ac
+      internalID: -1655239012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_129
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 397
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0af1c2cf64554fb660c81171cdfed
+      internalID: 582843172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_130
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 432
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ef13b905067842bc1a9d411c8dceb
+      internalID: 1798768270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 397
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bc9094868e78c4e8b4286a3f7451d8
+      internalID: 1704651948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_132
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fef3395b0fed34383fe4b068eff5d5
+      internalID: 501714101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_133
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 459
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c3540a0e173f4b8454886900db603
+      internalID: -1994755454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bead536d08e13d459e2fee11f0f54d3
+      internalID: -296438395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_135
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 861
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef0aae47eb61542b4f0115fb5a0f77
+      internalID: -1458272425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_136
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 372
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61061f3f004fff849b507edea0cab2b9
+      internalID: -535242055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_137
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 403
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340e32b01bc735843a82c6c560834cc7
+      internalID: -1167623073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_138
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 203
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5504fdafb87f45a08618cb20ca295
+      internalID: -1154957308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_139
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a75b80e011638408cc91f2edb2f29a
+      internalID: -456624580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Master - atlas0 #103003_140
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc257dd52c452b428f780fde8570d60
+      internalID: -1764262970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1009, y: 329}
+      - {x: -1009, y: 629}
+      - {x: -713, y: 629}
+      - {x: -713, y: 329}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Soul Master - atlas0 #103003_0: -304102272
+      Soul Master - atlas0 #103003_1: -2060784087
+      Soul Master - atlas0 #103003_10: -988836694
+      Soul Master - atlas0 #103003_100: 1501702676
+      Soul Master - atlas0 #103003_101: 572210751
+      Soul Master - atlas0 #103003_102: -172223935
+      Soul Master - atlas0 #103003_103: 865276337
+      Soul Master - atlas0 #103003_104: 1639186160
+      Soul Master - atlas0 #103003_105: -1998467596
+      Soul Master - atlas0 #103003_106: -678660414
+      Soul Master - atlas0 #103003_107: -1227134180
+      Soul Master - atlas0 #103003_108: -1166772903
+      Soul Master - atlas0 #103003_109: -1557444617
+      Soul Master - atlas0 #103003_11: 1980259000
+      Soul Master - atlas0 #103003_110: 1245564237
+      Soul Master - atlas0 #103003_111: 2042977427
+      Soul Master - atlas0 #103003_112: 2035701366
+      Soul Master - atlas0 #103003_113: -835910173
+      Soul Master - atlas0 #103003_114: 750625342
+      Soul Master - atlas0 #103003_115: 1658997116
+      Soul Master - atlas0 #103003_116: 1346032902
+      Soul Master - atlas0 #103003_117: -1962667056
+      Soul Master - atlas0 #103003_118: 1742359810
+      Soul Master - atlas0 #103003_119: -1330920185
+      Soul Master - atlas0 #103003_12: 339767939
+      Soul Master - atlas0 #103003_120: 1711006767
+      Soul Master - atlas0 #103003_121: 528605965
+      Soul Master - atlas0 #103003_122: 918908087
+      Soul Master - atlas0 #103003_123: 1435104969
+      Soul Master - atlas0 #103003_124: -1444965222
+      Soul Master - atlas0 #103003_125: -1369257618
+      Soul Master - atlas0 #103003_126: 466168863
+      Soul Master - atlas0 #103003_127: 654327959
+      Soul Master - atlas0 #103003_128: -1655239012
+      Soul Master - atlas0 #103003_129: 582843172
+      Soul Master - atlas0 #103003_13: 1332620914
+      Soul Master - atlas0 #103003_130: 1798768270
+      Soul Master - atlas0 #103003_131: 1704651948
+      Soul Master - atlas0 #103003_132: 501714101
+      Soul Master - atlas0 #103003_133: -1994755454
+      Soul Master - atlas0 #103003_134: -296438395
+      Soul Master - atlas0 #103003_135: -1458272425
+      Soul Master - atlas0 #103003_136: -535242055
+      Soul Master - atlas0 #103003_137: -1167623073
+      Soul Master - atlas0 #103003_138: -1154957308
+      Soul Master - atlas0 #103003_139: -456624580
+      Soul Master - atlas0 #103003_14: 534527962
+      Soul Master - atlas0 #103003_140: -1764262970
+      Soul Master - atlas0 #103003_15: -780619402
+      Soul Master - atlas0 #103003_16: 546932277
+      Soul Master - atlas0 #103003_17: -1991761612
+      Soul Master - atlas0 #103003_18: 383084546
+      Soul Master - atlas0 #103003_19: -854710867
+      Soul Master - atlas0 #103003_2: -1321791045
+      Soul Master - atlas0 #103003_20: 1763935153
+      Soul Master - atlas0 #103003_21: -1213762074
+      Soul Master - atlas0 #103003_22: 971733886
+      Soul Master - atlas0 #103003_23: -820110514
+      Soul Master - atlas0 #103003_24: 351966369
+      Soul Master - atlas0 #103003_25: -860149643
+      Soul Master - atlas0 #103003_26: 1398386013
+      Soul Master - atlas0 #103003_27: 204196591
+      Soul Master - atlas0 #103003_28: -179906628
+      Soul Master - atlas0 #103003_29: 553178648
+      Soul Master - atlas0 #103003_3: 134583488
+      Soul Master - atlas0 #103003_30: 658507749
+      Soul Master - atlas0 #103003_31: -1236310491
+      Soul Master - atlas0 #103003_32: -2024217706
+      Soul Master - atlas0 #103003_33: -718458860
+      Soul Master - atlas0 #103003_34: -1580479784
+      Soul Master - atlas0 #103003_35: -1245552547
+      Soul Master - atlas0 #103003_36: 703386964
+      Soul Master - atlas0 #103003_37: -1531146579
+      Soul Master - atlas0 #103003_38: -303364093
+      Soul Master - atlas0 #103003_39: -2024320646
+      Soul Master - atlas0 #103003_4: -2023631782
+      Soul Master - atlas0 #103003_40: -801929657
+      Soul Master - atlas0 #103003_41: 1829109764
+      Soul Master - atlas0 #103003_42: 1524335503
+      Soul Master - atlas0 #103003_43: -1462567758
+      Soul Master - atlas0 #103003_44: 428775315
+      Soul Master - atlas0 #103003_45: -1297264786
+      Soul Master - atlas0 #103003_46: 427195736
+      Soul Master - atlas0 #103003_47: 1010236667
+      Soul Master - atlas0 #103003_48: -1847294380
+      Soul Master - atlas0 #103003_49: 340671454
+      Soul Master - atlas0 #103003_5: -1505086614
+      Soul Master - atlas0 #103003_50: -903370949
+      Soul Master - atlas0 #103003_51: 1527890855
+      Soul Master - atlas0 #103003_52: 1226695031
+      Soul Master - atlas0 #103003_53: 1041126939
+      Soul Master - atlas0 #103003_54: 1247768363
+      Soul Master - atlas0 #103003_55: 767159500
+      Soul Master - atlas0 #103003_56: 825865334
+      Soul Master - atlas0 #103003_57: -1952247698
+      Soul Master - atlas0 #103003_58: 915345242
+      Soul Master - atlas0 #103003_59: 1227779759
+      Soul Master - atlas0 #103003_6: -1208452992
+      Soul Master - atlas0 #103003_60: -1632634428
+      Soul Master - atlas0 #103003_61: 1934778922
+      Soul Master - atlas0 #103003_62: 1359667431
+      Soul Master - atlas0 #103003_63: -699836197
+      Soul Master - atlas0 #103003_64: 1719564228
+      Soul Master - atlas0 #103003_65: -1471784693
+      Soul Master - atlas0 #103003_66: -2114808027
+      Soul Master - atlas0 #103003_67: 1480552150
+      Soul Master - atlas0 #103003_68: -1714673717
+      Soul Master - atlas0 #103003_69: -1797787233
+      Soul Master - atlas0 #103003_7: 216421853
+      Soul Master - atlas0 #103003_70: -1924641988
+      Soul Master - atlas0 #103003_71: -1932484870
+      Soul Master - atlas0 #103003_72: 621730958
+      Soul Master - atlas0 #103003_73: 2039964369
+      Soul Master - atlas0 #103003_74: -1760488495
+      Soul Master - atlas0 #103003_75: -835708353
+      Soul Master - atlas0 #103003_76: -18364812
+      Soul Master - atlas0 #103003_77: -1762770886
+      Soul Master - atlas0 #103003_78: 241580151
+      Soul Master - atlas0 #103003_79: -533581162
+      Soul Master - atlas0 #103003_8: 699538132
+      Soul Master - atlas0 #103003_80: 2083820516
+      Soul Master - atlas0 #103003_81: 571775942
+      Soul Master - atlas0 #103003_82: -140777471
+      Soul Master - atlas0 #103003_83: -1512652319
+      Soul Master - atlas0 #103003_84: 1290893621
+      Soul Master - atlas0 #103003_85: 1477134034
+      Soul Master - atlas0 #103003_86: 95207759
+      Soul Master - atlas0 #103003_87: 896680865
+      Soul Master - atlas0 #103003_88: 1810852570
+      Soul Master - atlas0 #103003_89: -432379394
+      Soul Master - atlas0 #103003_9: 1104813372
+      Soul Master - atlas0 #103003_90: 1040743598
+      Soul Master - atlas0 #103003_91: -580065785
+      Soul Master - atlas0 #103003_92: 1665860705
+      Soul Master - atlas0 #103003_93: -1050254548
+      Soul Master - atlas0 #103003_94: 1977036258
+      Soul Master - atlas0 #103003_95: 192287294
+      Soul Master - atlas0 #103003_96: 2101093682
+      Soul Master - atlas0 #103003_97: -265167653
+      Soul Master - atlas0 #103003_98: -1694023769
+      Soul Master - atlas0 #103003_99: -524527277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

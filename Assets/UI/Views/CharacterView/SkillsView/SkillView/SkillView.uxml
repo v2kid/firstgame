@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="height: 97px; width: 95px; background-image: url(&quot;project://database/Assets/Soul%20Master%20-%20atlas0%20%23103003.png?fileID=-1531146579&amp;guid=ac55962f050568d48ab8ab6d852bd708&amp;type=3#Soul Master - atlas0 #103003_37&quot;);" />
+</ui:UXML>

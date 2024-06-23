@@ -1,0 +1,23 @@
+.grid-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(245, 211, 211);
+    border-radius: 10px;
+    height: auto;
+    margin-top: 104px;
+    margin-right: 104px;
+    margin-bottom: 227px;
+    margin-left: 104px;
+}
+
+.grid-item {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(171, 205, 239);
+    border-radius: 10px;
+    margin: 5px;
+}

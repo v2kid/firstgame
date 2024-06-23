@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; height: 1565px; width: 1084px;">
+        <ui:VisualElement style="flex-grow: 1; height: 1325px; width: 1098px;">
+            <ui:VisualElement name="HeroImage" style="flex-grow: 1; width: auto; height: 582px; top: 100px; margin-top: 321px; margin-right: 260px; margin-bottom: 260px; margin-left: 260px; padding-left: -2px; background-image: url(&quot;project://database/Assets/Soul%20Master%20-%20atlas0%20%23103003.png?fileID=351966369&amp;guid=ac55962f050568d48ab8ab6d852bd708&amp;type=3#Soul Master - atlas0 #103003_24&quot;);" />
+            <ui:VisualElement style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:GroupBox style="flex-direction: row; height: 183px; width: 1063px; position: relative; bottom: auto; justify-content: center; align-items: center;">
+            <ui:Button text="Evolve&#10;-100 Gem" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 450px; height: 200px; margin-top: 32px; margin-right: 32px; margin-bottom: 32px; margin-left: 32px; font-size: 60px; border-top-left-radius: 56px; border-top-right-radius: 56px; border-bottom-right-radius: 56px; border-bottom-left-radius: 56px;" />
+            <ui:Button text="Upgrade&#10;-100 Gem" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 450px; height: 200px; margin-top: 32px; margin-right: 32px; margin-bottom: 32px; margin-left: 32px; font-size: 60px; border-top-left-radius: 56px; border-top-right-radius: 56px; border-bottom-right-radius: 56px; border-bottom-left-radius: 56px;" />
+        </ui:GroupBox>
+        <ui:VisualElement name="VisualElement" style="flex-grow: 1; height: -83px; width: 1075px;" />
+    </ui:VisualElement>
+</ui:UXML>

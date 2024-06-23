@@ -1,0 +1,32 @@
+.slotsContainer {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    flex-grow: 1;
+    margin-top: 0;
+    padding-top: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.SkillSlot {
+    width: 20%;
+    height: 125px;
+    margin: 10px;
+    border-left-color: rgb(48, 48, 48);
+    border-right-color: rgb(48, 48, 48);
+    border-top-color: rgb(48, 48, 48);
+    border-bottom-color: rgb(48, 48, 48);
+    background-color: rgb(9, 19, 21);
+    background-image: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}   
+.itemSlotsContainer {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    flex-grow: 1;
+    margin-top: 0;
+    padding-top: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}

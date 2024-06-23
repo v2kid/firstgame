@@ -1,0 +1,28 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="SkillView" src="project://database/Assets/UI/Views/CharacterView/SkillsView/SkillView/SkillView.uxml?fileID=9197481963319205126&amp;guid=42858a996e47f23438a88695711b5e7e&amp;type=3#SkillView" />
+    <Style src="project://database/Assets/UI/Views/CharacterView/TeamView/HeroSelectionStyle.uss?fileID=7433441132597879392&amp;guid=1068ae62da1862848ae7637681c9a9e2&amp;type=3#HeroSelectionStyle" />
+    <ui:VisualElement name="Container" class="container" style="height: auto; width: auto;">
+        <ui:GroupBox style="height: 751px; width: 1071px; top: 100px;">
+            <ui:Label tabindex="-1" text="title" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 82px; align-items: center; justify-content: center; align-self: center;" />
+            <ui:VisualElement name="HeroInfo" style="flex-grow: 1; flex-direction: row; top: 50px;">
+                <ui:VisualElement style="flex-grow: 1;">
+                    <ui:VisualElement name="HeroAvatar" style="height: 515px; width: 522px; background-image: url(&quot;project://database/Assets/Soul%20Master%20-%20atlas0%20%23103003.png?fileID=-1297264786&amp;guid=ac55962f050568d48ab8ab6d852bd708&amp;type=3#Soul Master - atlas0 #103003_45&quot;); padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:Label tabindex="-1" text="Name" parse-escape-sequences="true" display-tooltip-when-elided="true" enable-rich-text="true" style="justify-content: center; align-self: center; font-size: 43px; bottom: 100px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:GroupBox name="Skills" style="height: 409px; width: 462px; justify-content: space-between; align-items: center; top: 50px;">
+                    <ui:Instance template="SkillView" name="SkillView" style="height: auto; width: auto;" />
+                    <ui:Instance template="SkillView" name="SkillView" style="height: auto; width: auto;" />
+                    <ui:Instance template="SkillView" name="SkillView" style="height: auto; width: auto;" />
+                </ui:GroupBox>
+            </ui:VisualElement>
+        </ui:GroupBox>
+        <ui:VisualElement name="Inventory" class="inventory" style="height: 1061px; width: 808px; top: 100px; background-color: rgb(28, 32, 36);">
+            <ui:Label text="Inventory" display-tooltip-when-elided="true" name="Header" class="header" />
+            <ui:VisualElement name="SlotContainer" class="slotsContainer" style="align-items: flex-start; justify-content: center; flex-direction: row; margin-top: 0; margin-left: 0; margin-right: 0; margin-bottom: 0; flex-shrink: 1; background-image: url(&quot;project://database/Assets/UI/Views/CharacterView/TeamView/Sprites/ItemSlotBackground.png?fileID=21300000&amp;guid=9775dedc597859d4e8a501720a97fac4&amp;type=3#ItemSlotBackground&quot;); height: 499px; width: 789px; background-color: rgba(190, 177, 177, 0.68);">
+              
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="GhostIcon" style="visibility: hidden; position: absolute; width: 128px; height: 128px; background-image: none;" />
+    </ui:VisualElement>
+</ui:UXML>

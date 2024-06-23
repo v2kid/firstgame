@@ -1,0 +1,11 @@
+.Navbar {
+    height: -1566px;
+    flex-shrink: 1;
+    position: relative;
+    opacity: 1;
+    display: flex;
+}
+
+.Navbar > * {
+    margin: 0 10px;
+}

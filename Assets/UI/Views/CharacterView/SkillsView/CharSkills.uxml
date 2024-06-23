@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Views/CharacterView/SkillsView/SkillStyle.uss?fileID=7433441132597879392&amp;guid=fe8fd764af97828468ffa8697e3a5321&amp;type=3#SkillStyle" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Skills" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Skills" style="flex-direction: column; justify-content: center; align-self: center; height: 25px; width: 40px; font-size: 41px;" />
+        <ui:GroupBox name="SkillSlotsContainer" class="slotsContainer" style="white-space: normal; flex-wrap: wrap; height: 1732px; width: 980px; justify-content: center; align-items: center; align-self: center; flex-direction: row; top: 100px; margin-top: 19px; margin-right: 19px; margin-bottom: 19px; margin-left: 19px;">
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillSlot" class="SkillSlot" />
+            <ui:GroupBox name="SkillItemsContainer" class="itemSlotsContainer" style="white-space: normal; flex-wrap: wrap; height: 1044px; width: 979px; justify-content: center; align-items: center; align-self: center; flex-direction: row; top: 200px; background-color: rgb(159, 149, 149);" />
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,26 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/TabbedMenu-style.uss?fileID=7433441132597879392&amp;guid=8ff19e50e2cb6e244905717107d7b1c8&amp;type=3#TabbedMenu-style" />
+    <ui:VisualElement>
+        <ui:VisualElement name="tabs" style="height: 300px;">
+            <ui:Label name="LondonTab" text="London" class="tab currentlySelectedTab" style="font-size: 152px;" />
+            <ui:Label name="ParisTab" text="Paris" class="tab" style="font-size: 142px;" />
+            <ui:Label name="OttawaTab" text="Ottawa" class="tab" style="font-size: 140px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="tabContent" style="height: 1125px;">
+            <ui:VisualElement name="LondonContent" style="flex-grow: 1; flex-direction: row;">
+                <ui:VisualElement name="tabContent" style="flex-grow: 1;">
+                    <ui:VisualElement name="ButtonContent" style="flex-grow: 1;">
+                        <ui:Label text="London is the capital city of England" name="label" style="font-size: 82px;" />
+                    </ui:VisualElement>
+                    <ui:Label text="london button1" name="Button1Content" class="unselectedContent" style="font-size: 82px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="tabs" style="flex-grow: 1; height: 211px;">
+                    <ui:Label tabindex="-1" text="buttontab" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonTab" class="tab" style="font-size: 56px;" />
+                    <ui:Label tabindex="-1" text="buttontab2" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button1Tab" class="tab" style="height: -53px; width: 200px; font-size: 33px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:Label text="Paris is the capital of France" name="ParisContent" class="unselectedContent" style="font-size: 80px;" />
+            <ui:Label text="Ottawa is the capital of Canada" name="OttawaContent" class="unselectedContent" style="font-size: 80px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
