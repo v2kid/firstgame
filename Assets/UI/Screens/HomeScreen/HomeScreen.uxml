@@ -1,7 +1,7 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <ui:Template name="CharTeam" src="project://database/Assets/UI/Views/CharacterView/TeamView/CharTeam.uxml?fileID=9197481963319205126&amp;guid=e7d95cab0dad1634bb96f4d22d2e76e2&amp;type=3#CharTeam" />
     <ui:Template name="CharUpgrade" src="project://database/Assets/UI/Views/CharacterView/UpgradeView/CharUpgrade.uxml?fileID=9197481963319205126&amp;guid=e38b7b6673f6e804984653a989513e59&amp;type=3#CharUpgrade" />
-    <ui:Template name="CharRune" src="project://database/Assets/UI/Views/CharacterView/RunesView/CharRune.uxml?fileID=9197481963319205126&amp;guid=285575e7ff545b04dac92363a7b61c33&amp;type=3#CharRune" />
+    <ui:Template name="CharRune" src="project://database/Assets/UI/Views/CharacterView/AbilityView/CharRune.uxml?fileID=9197481963319205126&amp;guid=285575e7ff545b04dac92363a7b61c33&amp;type=3#CharRune" />
     <ui:Template name="CharSkills" src="project://database/Assets/UI/Views/CharacterView/SkillsView/CharSkills.uxml?fileID=9197481963319205126&amp;guid=3ebfd0bb613e4a640a821343e0c15552&amp;type=3#CharSkills" />
     <ui:Template name="PvP" src="project://database/Assets/UI/Views/PvpView/PvP.uxml?fileID=9197481963319205126&amp;guid=2c6971d6d877649488d88c6e892d0ca4&amp;type=3#PvP" />
     <ui:Template name="PveView" src="project://database/Assets/UI/Views/PveView/PveView.uxml?fileID=9197481963319205126&amp;guid=ec839a6a6ae6efd4ba9838e86e144160&amp;type=3#PveView" />
@@ -13,24 +13,24 @@
             </ui:VisualElement>
             <ui:VisualElement name="CharContent" style="flex-grow: 1; height: 1210px; width: 1077px;">
                 <ui:VisualElement name="tabContent" style="flex-grow: 1;">
-                    <ui:VisualElement name="TeamContent" style="flex-grow: 1;">
+                    <ui:VisualElement name="TeamContent" class="unselectedContent" style="flex-grow: 1;">
                         <ui:Instance template="CharTeam" name="CharTeam" />
                     </ui:VisualElement>
                     <ui:VisualElement name="UpgradeContent" class="unselectedContent" style="flex-grow: 1;">
                         <ui:Instance template="CharUpgrade" name="CharUpgrade" />
                     </ui:VisualElement>
-                    <ui:VisualElement name="RuneContent" class="unselectedContent" style="flex-grow: 1;">
+                    <ui:VisualElement name="AbilitiesContent" style="flex-grow: 1;">
                         <ui:Instance template="CharRune" name="CharRune" />
                     </ui:VisualElement>
-                    <ui:VisualElement name="SkillContent" class="unselectedContent" style="flex-grow: 1;">
+                    <ui:VisualElement name="SkillsContent" class="unselectedContent" style="flex-grow: 1;">
                         <ui:Instance template="CharSkills" name="CharSkills" />
                     </ui:VisualElement>
                 </ui:VisualElement>
                 <ui:VisualElement name="tabs" style="flex-grow: 1; height: 130px; position: absolute; bottom: 6px; width: 1078px; display: flex;">
-                    <ui:Button text="Team" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TeamTab" class="currentlySelectedTab tab" style="font-size: 35px;" />
+                    <ui:Button text="Team" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TeamTab" class="tab" style="font-size: 35px;" />
                     <ui:Button text="Upgrade" parse-escape-sequences="true" display-tooltip-when-elided="true" name="UpgradeTab" class="tab" style="font-size: 35px;" />
-                    <ui:Button text="Rune" parse-escape-sequences="true" display-tooltip-when-elided="true" name="RuneTab" class="tab" style="font-size: 35px;" />
-                    <ui:Button text="Skill" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillTab" class="tab" style="font-size: 35px;" />
+                    <ui:Button text="Abilities" parse-escape-sequences="true" display-tooltip-when-elided="true" name="AbilitiesTab" class="tab currentlySelectedTab" style="font-size: 35px;" />
+                    <ui:Button text="Skill" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SkillsTab" class="tab" style="font-size: 35px;" />
                 </ui:VisualElement>
             </ui:VisualElement>
             <ui:VisualElement name="PvpContent" class="unselectedContent" style="flex-grow: 1;">

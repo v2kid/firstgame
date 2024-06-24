@@ -9,12 +9,12 @@ using UnityEngine.EventSystems;
 using UnityEngine.Scripting;
 using UnityEngine.UIElements;
 
-    public class InventorySlot : VisualElement
+    public class HeroSlot : VisualElement
     {
         public Image Icon;
         public string ItemGuid = "";
 
-        public InventorySlot()
+        public HeroSlot()
         {
             // Create a new Image element and add it to the root
             Icon = new Image();
@@ -37,7 +37,7 @@ using UnityEngine.UIElements;
             }
 
             // Start the drag
-            InventoryUIController.StartDrag(evt.position, this);
+            // InventoryUIController.StartDrag(evt.position, this);
         }
 
         /// <summary>
@@ -61,7 +61,7 @@ using UnityEngine.UIElements;
 
         #region UXML
         [Preserve]
-        public new class UxmlFactory : UxmlFactory<InventorySlot, UxmlTraits> { }
+        public new class UxmlFactory : UxmlFactory<HeroSlot, UxmlTraits> { }
         [Preserve]
         public new class UxmlTraits : VisualElement.UxmlTraits { }
         #endregion

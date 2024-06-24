@@ -29,7 +29,7 @@ public class GameController : MonoBehaviour
     [SerializeField]
     public List<Sprite> IconSprites;
     private static Dictionary<string, ItemDetails> m_ItemDatabase = new Dictionary<string, ItemDetails>();
-    private List<ItemDetails> m_PlayerInventory = new List<ItemDetails>();
+    private List<ItemDetails> m_PlayerTeam = new List<ItemDetails>();
     public static event OnInventoryChangedDelegate OnInventoryChanged = delegate { };
 
 
@@ -41,8 +41,8 @@ public class GameController : MonoBehaviour
     private void Start()
     {
         //Add the ItemDatabase to the players inventory and let the UI know that some items have been picked up
-        m_PlayerInventory.AddRange(m_ItemDatabase.Values);
-        OnInventoryChanged.Invoke(m_PlayerInventory.Select(x => x.GUID).ToArray(), InventoryChangeType.Pickup);
+        m_PlayerTeam.AddRange(m_ItemDatabase.Values);
+        OnInventoryChanged.Invoke(m_PlayerTeam.Select(x => x.GUID).ToArray(), InventoryChangeType.Pickup);
     }
 
     /// <summary>
@@ -78,6 +78,13 @@ public class GameController : MonoBehaviour
             Name = "Bottle of Poison",
             GUID = "1B9C6CAA-754E-412D-91BF-23FUSUBUV3",
             Icon = IconSprites.FirstOrDefault(x => x.name.Equals("poison")),
+            CanDrop = true
+        });
+            m_ItemDatabase.Add("1B9C6CAA-754E-412D-91BF-23FUSUBUV4", new ItemDetails()
+        {
+            Name = "Bottle of Poison",
+            GUID = "1B9C6CAA-754E-412D-91BF-23FUSUBUV4",
+            Icon = IconSprites.FirstOrDefault(x => x.name.Equals("syndicate")),
             CanDrop = true
         });
        

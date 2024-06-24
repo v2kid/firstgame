@@ -13,7 +13,7 @@ using UnityEngine.UIElements;
         private static VisualElement m_GhostIcon;
         
         private static bool m_IsDragging;
-        private static SkillSlot m_OriginalSlot;
+        private static SkillSlot m_OriginalSKillSlot;
 
         private void Awake()
         {
@@ -42,7 +42,7 @@ using UnityEngine.UIElements;
         {
             // Set tracking variables
             m_IsDragging = true;
-            m_OriginalSlot = originalSlot;
+            m_OriginalSKillSlot = originalSlot;
 
             // Set the new position
             m_GhostIcon.style.top = position.y - m_GhostIcon.layout.height / 2;
@@ -83,7 +83,7 @@ using UnityEngine.UIElements;
         SkillSlot closestSlot = slots.OrderBy(x => Vector2.Distance(x.worldBound.position, m_GhostIcon.worldBound.position)).First();
 
         // Check if the closest slot is the original slot
-        if (closestSlot == m_OriginalSlot)
+        if (closestSlot == m_OriginalSKillSlot)
         {
             // Dropped back to the original slot, do nothing
             ResetDrag();
@@ -95,25 +95,25 @@ using UnityEngine.UIElements;
         {
             // Handle item merging logic here if needed
             // For now, we'll simply swap the items
-            var originalItem = GameController.GetItemByGuid(m_OriginalSlot.ItemGuid);
+            var originalItem = GameController.GetItemByGuid(m_OriginalSKillSlot.ItemGuid);
             var targetItem = GameController.GetItemByGuid(closestSlot.ItemGuid);
 
-            m_OriginalSlot.HoldItem(targetItem);
+            m_OriginalSKillSlot.HoldItem(targetItem);
             closestSlot.HoldItem(originalItem);
         }
         else
         {
             // Set the new SkillPool slot with the data
-            closestSlot.HoldItem(GameController.GetItemByGuid(m_OriginalSlot.ItemGuid));
+            closestSlot.HoldItem(GameController.GetItemByGuid(m_OriginalSKillSlot.ItemGuid));
 
             // Clear the original slot
-            m_OriginalSlot.DropItem();
+            m_OriginalSKillSlot.DropItem();
         }
     }
     else
     {
         // Dropped outside any slot, reset to original slot
-        m_OriginalSlot.Icon.image = GameController.GetItemByGuid(m_OriginalSlot.ItemGuid).Icon.texture;
+        m_OriginalSKillSlot.Icon.image = GameController.GetItemByGuid(m_OriginalSKillSlot.ItemGuid).Icon.texture;
     }
 
     // Clear dragging related visuals and data
@@ -123,7 +123,7 @@ using UnityEngine.UIElements;
         private void ResetDrag()
         {
             m_IsDragging = false;
-            m_OriginalSlot = null;
+            m_OriginalSKillSlot = null;
             m_GhostIcon.style.visibility = Visibility.Hidden;
         }
 

@@ -1,0 +1,33 @@
+.ability {
+    margin-bottom: 42px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    margin-left: 2px;
+    font-size: 49px;
+    width: 20%;
+    height: 50%;
+}
+
+.abilityIcon {
+    width: 100%;
+    height: 100%;
+    scale-mode: scale-to-fit;
+}
+
+.abilityLabel {
+    font-size: 30px;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.abilityDescription {
+    display: none;
+}
+
+.abilityEffect {
+    font-size: 25px;
+}

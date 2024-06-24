@@ -1,0 +1,22 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Resources/PopUpStyle.uss?fileID=7433441132597879392&amp;guid=8d5914a1510cd9849b742e54bb3aaa76&amp;type=3#PopUpStyle" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(7, 7, 7);">
+        <ui:VisualElement name="Container" class="popup container" style="position: absolute; height: 1905px; width: 1070px; font-size: 117px; align-items: auto; justify-content: flex-start; align-self: center; background-color: rgba(255, 255, 255, 0.77); bottom: 5px;">
+            <ui:VisualElement name="popup" class="popup" style="position: absolute; height: 1202px; width: 941px; font-size: 117px; align-items: auto; justify-content: flex-start; align-self: center; background-color: rgba(0, 0, 0, 0.77); bottom: 283px;">
+                <ui:Button name="closeButton" text="X" class="close-button" style="height: 45px; width: 62px; align-items: stretch; justify-content: flex-start; align-self: auto; flex-wrap: nowrap;" />
+                <ui:Label name="titleLabel" text="Title" class="title" style="-unity-text-outline-color: rgba(0, 0, 0, 0.89); color: rgb(255, 255, 255); align-self: flex-start;" />
+                <ui:Label name="detailLabel" text="Details" class="details" style="color: rgb(255, 255, 255); align-self: flex-start;" />
+                <ui:VisualElement name="RandomList" style="flex-grow: 1; height: 306px; width: 938px; flex-direction: row; flex-wrap: wrap; justify-content: space-around;">
+                    <ui:Button text="Item 1" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 271px; height: 381px; justify-content: flex-end; align-self: flex-start; align-items: center; font-size: 70px; border-top-left-radius: 21px; border-top-right-radius: 21px; border-bottom-right-radius: 21px; border-bottom-left-radius: 21px; border-top-width: 13px; border-right-width: 13px; border-bottom-width: 13px; border-left-width: 13px;" />
+                    <ui:Button text="Item2" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 271px; height: 381px; justify-content: flex-end; align-self: flex-start; align-items: center; font-size: 70px; border-top-left-radius: 21px; border-top-right-radius: 21px; border-bottom-right-radius: 21px; border-bottom-left-radius: 21px; border-top-width: 13px; border-right-width: 13px; border-bottom-width: 13px; border-left-width: 13px;" />
+                    <ui:Button text="Item 3" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 271px; height: 381px; justify-content: flex-end; align-self: flex-start; align-items: center; font-size: 70px; border-top-left-radius: 21px; border-top-right-radius: 21px; border-bottom-right-radius: 21px; border-bottom-left-radius: 21px; border-top-width: 13px; border-right-width: 13px; border-bottom-width: 13px; border-left-width: 13px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="ActionList" style="flex-grow: 1; height: -85px; width: 935px; flex-wrap: wrap; flex-direction: row; justify-content: space-around;">
+                    <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Start" style="width: 30%; height: 69%; font-size: 60px; border-top-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; border-bottom-left-radius: 35px;" />
+                    <ui:Button text="Try Again&#10;-50 gem" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 30%; height: 69%; font-size: 60px; border-top-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; border-bottom-left-radius: 35px;" />
+                    <ui:Button text="Add&#10;(30s)" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 30%; height: 69%; font-size: 60px; border-top-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; border-bottom-left-radius: 35px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

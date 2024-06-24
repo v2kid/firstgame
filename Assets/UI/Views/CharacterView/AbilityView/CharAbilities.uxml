@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Views/CharacterView/AbilityView/AbilitiesStyle.uss?fileID=7433441132597879392&amp;guid=5b55a25c9b3fbe347baddedfddca450c&amp;type=3#AbilitiesStyle" />
+    <ui:VisualElement name="AbilitiesContainer" style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Abilities" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Abilities" style="justify-content: center; align-items: center; align-self: center; font-size: 63px;" />
+        <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1">
+            <ui:VisualElement name="CommonAbilitiesContainer" style="flex-grow: 1; height: auto; width: auto;">
+                <ui:Label tabindex="-1" text="Common" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Common" style="font-size: 73px; align-items: center; justify-content: flex-end; align-self: center;" />
+                <ui:GroupBox name="CommonAbilities" style="height: 685px; width: 1050px; top: auto; flex-direction: row; align-items: stretch; justify-content: space-around; align-self: center; flex-wrap: wrap;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="RareAbilitiesContainer" style="flex-grow: 1; height: auto; width: auto; top: 50px;">
+                <ui:Label tabindex="-1" text="Rare" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Rare" style="font-size: 73px; align-items: center; justify-content: flex-end; align-self: center;" />
+                <ui:GroupBox name="RareAbilities" style="height: 685px; width: 1050px; top: auto; flex-direction: row; align-items: stretch; justify-content: space-around; align-self: center; flex-wrap: wrap;" />
+            </ui:VisualElement>
+        </ui:ScrollView>
+        <ui:Button text="Upgrade" parse-escape-sequences="true" display-tooltip-when-elided="true" name="UpgradeButton" style="height: 108px; width: 493px; font-size: 46px; align-self: center; position: absolute; bottom: 50px;" />
+    </ui:VisualElement>
+</ui:UXML>
